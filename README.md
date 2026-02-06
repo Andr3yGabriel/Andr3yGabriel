@@ -1,4 +1,4 @@
-# Hi — I'm Andr3y 👋
+# Hi — I'm Andrey 👋
 
 [![Made With Markdown](https://img.shields.io/badge/markdown-%F0%9F%92%BB-000000?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/)
 [![Website](https://img.shields.io/badge/Website-portfolio-blue?style=for-the-badge&logo=google-chrome)](https://github.com/Andr3yGabriel)
