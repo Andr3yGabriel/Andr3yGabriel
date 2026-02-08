@@ -1,7 +1,5 @@
 # Hi — I'm Andrey 👋
 
-[![Made With Markdown](https://img.shields.io/badge/markdown-%F0%9F%92%BB-000000?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/)
-[![Website](https://img.shields.io/badge/Website-portfolio-blue?style=for-the-badge&logo=google-chrome)](https://github.com/Andr3yGabriel)
 ![Email](https://img.shields.io/badge/Email-andreygoncalvesdev%40gmail.com-important?style=for-the-badge&logo=gmail)
 
 A pragmatic software engineer focused on building reliable, maintainable web applications. I enjoy designing end-to-end systems with clear APIs, great DX and robust operational setups.
