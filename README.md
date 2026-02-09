@@ -76,13 +76,6 @@ Highlights:
 
 ---
 
-## GitHub Stats
-
-![Andr3yGabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andr3yGabriel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andr3yGabriel&layout=compact&theme=radical)
-
----
-
 ## Contact
 
 - Email: andreygoncalvesdev@gmail.com
